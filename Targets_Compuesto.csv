@@ -1,0 +1,901 @@
+Target,Common.name,Compuesto
+P-glycoprotein 1,ABCB1,A
+Protein kinase C alpha,PRKCA,A
+Androgen Receptor,AR,A
+Glucocorticoid receptor,NR3C1,A
+Protein kinase C delta   (by homology),PRKCD,A
+Protein-tyrosine phosphatase 1B,PTPN1,A
+HMG-CoA reductase,HMGCR,A
+Telomerase reverse transcriptase,TERT,A
+Protein kinase C epsilon,PRKCE,A
+Inhibitor of nuclear factor kappa B kinase beta subunit,IKBKB,A
+Progesterone receptor,PGR,A
+Phospholipase A2 group IIA,PLA2G2A,A
+Isoleucyl-tRNA synthetase,IARS,A
+Glutathione S-transferase Mu 1,GSTM1,A
+Protein kinase C beta,PRKCB,A
+Cyclooxygenase-2,PTGS2,A
+Protein kinase C eta,PRKCH,A
+Protein kinase C theta,PRKCQ,A
+Phosphodiesterase 4D,PDE4D,A
+Proteinase-activated receptor 2,F2RL1,A
+Arachidonate 5-lipoxygenase,ALOX5,A
+Interleukin-8 receptor A,CXCR1,A
+Protein kinase C gamma,PRKCG,A
+Mineralocorticoid receptor,NR3C2,A
+Proto-oncogene c-JUN,JUN,A
+Proto-oncogene vav,VAV1,A
+Sarcoplasmic/endoplasmic reticulum calcium ATPase 1,ATP2A1,A
+Apoptosis regulator Bcl-X,BCL2L1,A
+Bromodomain-containing protein 4,BRD4,A
+CREB-binding protein/p53,CREBBP,A
+Tubulin--tyrosine ligase,TTL,A
+Thrombin,F2,A
+Kappa Opioid receptor,OPRK1,A
+Programmed cell death protein 4,PDCD4,A
+Ribosomal protein S6 kinase alpha 5,RPS6KA5,A
+C-C chemokine receptor type 1,CCR1,A
+"Serine/threonine protein phosphatase 2A, catalytic subunit, alpha isoform",PPP2CA,A
+Cyclin-dependent kinase 2,CDK2,A
+Cyclin-dependent kinase 1,CDK1,A
+Matrix metalloproteinase 1,MMP1,A
+P2X purinoceptor 7,P2RX7,A
+Nerve growth factor receptor Trk-A,NTRK1,A
+Cytochrome P450 19A1,CYP19A1,A
+Matrix metalloproteinase 3,MMP3,A
+Glycogen synthase kinase-3 beta,GSK3B,A
+Muscle glycogen synthase,GYS1,A
+CDK8/Cyclin C,CCNC CDK8,A
+Cell division protein kinase 8,CDK8,A
+11-beta-hydroxysteroid dehydrogenase 1,HSD11B1,A
+Protein farnesyltransferase,FNTA FNTB,A
+Corticosteroid binding globulin,SERPINA6,A
+Leucine-rich repeat serine/threonine-protein kinase 2,LRRK2,A
+Cyclin-dependent kinase 4/cyclin D1,CCND1 CDK4,A
+Cyclin-dependent kinase 2/cyclin E,CCNE2 CDK2 CCNE1,A
+MAP kinase p38 alpha,MAPK14,A
+Adenosine A1 receptor,ADORA1,A
+"Heat shock protein 75 kDa, mitochondrial",TRAP1,A
+Heat shock protein HSP 90-beta,HSP90AB1,A
+MAP kinase ERK2,MAPK1,A
+Delta opioid receptor,OPRD1,A
+Adenosine A2a receptor,ADORA2A,A
+Vascular endothelial growth factor receptor 3,FLT4,A
+Tyrosine-protein kinase receptor FLT3,FLT3,A
+Dual specificity mitogen-activated protein kinase kinase 1,MAP2K1,A
+Carboxylesterase 2,CES2,A
+Phosphodiesterase 10A,PDE10A,A
+Tyrosine-protein kinase receptor TYRO3,TYRO3,A
+Proto-oncogene tyrosine-protein kinase MER,MERTK,A
+Beta secretase 2,BACE2,A
+Toll-like receptor (TLR7/TLR9),TLR9,A
+P2X purinoceptor 3,P2RX3,A
+Pregnane X receptor,NR1I2,A
+Voltage-gated potassium channel subunit Kv1.3,KCNA3,A
+Low affinity sodium-glucose cotransporter,SLC5A4,A
+Gamma-secretase,PSEN2 PSENEN NCSTN APH1A PSEN1 APH1B,A
+Sorbitol dehydrogenase,SORD,A
+Mitogen-activated protein kinase kinase kinase 1,MAP3K1,A
+Interleukin-8 receptor B,CXCR2,A
+Cyclin-dependent kinase 1/cyclin B,CCNB3 CDK1 CCNB1 CCNB2,A
+Cyclin-dependent kinase 2/cyclin A,CDK2 CCNA1 CCNA2,A
+Ribosomal protein S6 kinase alpha 3,RPS6KA3,A
+Sodium/glucose cotransporter 2,SLC5A2,A
+Prostaglandin E synthase,PTGES,A
+Serine/threonine-protein kinase PIM1,PIM1,A
+Sodium channel protein type IX alpha subunit,SCN9A,A
+Serine/threonine-protein kinase PIM2,PIM2,A
+Serine/threonine-protein kinase PIM3,PIM3,A
+G protein-coupled receptor kinase 7,GRK7,A
+Serine/threonine-protein kinase 38,STK38,A
+Homeodomain-interacting protein kinase 4,HIPK4,A
+Serine/threonine-protein kinase TAO2,TAOK2,A
+Serine/threonine-protein kinase/endoribonuclease IRE1,ERN1,A
+Serine/threonine-protein kinase OSR1,OXSR1,A
+Serine/threonine-protein kinase MAK,MAK,A
+STE20/SPS1-related proline-alanine-rich protein kinase,STK39,A
+Cyclin-dependent kinase-like 5,CDKL5,A
+Cyclin-dependent kinase-like 3,CDKL3,A
+U4/U6 small nuclear ribonucleoprotein Prp4,PRPF4,A
+Phosphatidylinositol-4-phosphate 3-kinase C2 domain-containing subunit gamma,PIK3C2G,A
+Mitogen-activated protein kinase kinase kinase 6,MAP3K6,A
+P-glycoprotein 1,ABCB1,B
+Protein kinase C alpha,PRKCA,B
+HMG-CoA reductase,HMGCR,B
+Glucocorticoid receptor,NR3C1,B
+Protein-tyrosine phosphatase 1B,PTPN1,B
+Progesterone receptor,PGR,B
+Apoptosis regulator Bcl-X,BCL2L1,B
+Phospholipase A2 group IIA,PLA2G2A,B
+Protein kinase C delta,PRKCD,B
+Phosphodiesterase 4D,PDE4D,B
+Telomerase reverse transcriptase,TERT,B
+Androgen Receptor,AR,B
+Inhibitor of nuclear factor kappa B kinase beta subunit,IKBKB,B
+Protein kinase C epsilon,PRKCE,B
+Protein kinase C beta,PRKCB,B
+Tubulin--tyrosine ligase,TTL,B
+Arachidonate 5-lipoxygenase,ALOX5,B
+Protein kinase C gamma,PRKCG,B
+Protein kinase C eta,PRKCH,B
+Kappa Opioid receptor,OPRK1,B
+Glutathione S-transferase Mu 1,GSTM1,B
+Isoleucyl-tRNA synthetase,IARS,B
+Cyclooxygenase-2,PTGS2,B
+Carboxylesterase 2,CES2,B
+C-C chemokine receptor type 1,CCR1,B
+Cytochrome P450 19A1,CYP19A1,B
+Subtilisin/kexin type 7,PCSK7,B
+Mineralocorticoid receptor,NR3C2,B
+Proteinase-activated receptor 2,F2RL1,B
+Protein kinase C theta,PRKCQ,B
+11-beta-hydroxysteroid dehydrogenase 1,HSD11B1,B
+Interleukin-8 receptor A,CXCR1,B
+Pregnane X receptor,NR1I2,B
+Adenosine A1 receptor,ADORA1,B
+Thrombin,F2,B
+Programmed cell death protein 4,PDCD4,B
+Prostaglandin E synthase,PTGES,B
+Period circadian protein homolog 2,PER2,B
+Matrix metalloproteinase 1,MMP1,B
+Glycogen synthase kinase-3 beta,GSK3B,B
+"Serine/threonine protein phosphatase 2A, catalytic subunit, alpha isoform",PPP2CA,B
+Sarcoplasmic/endoplasmic reticulum calcium ATPase 1,ATP2A1,B
+MAP kinase p38 alpha,MAPK14,B
+Delta opioid receptor,OPRD1,B
+Corticosteroid binding globulin,SERPINA6,B
+Gamma-secretase,PSEN2 PSENEN NCSTN APH1A PSEN1 APH1B,B
+Protein-tyrosine phosphatase 2C,PTPN11,B
+Protein farnesyltransferase,FNTA FNTB,B
+Ribosomal protein S6 kinase alpha 5,RPS6KA5,B
+Bromodomain-containing protein 4,BRD4,B
+P2X purinoceptor 3,P2RX3,B
+MAP kinase ERK2,MAPK1,B
+CREB-binding protein/p53,CREBBP,B
+Nerve growth factor receptor Trk-A,NTRK1,B
+Proto-oncogene vav,VAV1,B
+Leucine-rich repeat serine/threonine-protein kinase 2,LRRK2,B
+Voltage-gated potassium channel subunit Kv1.3,KCNA3,B
+Liver glycogen phosphorylase,PYGL,B
+Muscle glycogen phosphorylase,PYGM,B
+Cytochrome P450 51,CYP51A1,B
+Serine/threonine-protein kinase mTOR,MTOR,B
+PI3-kinase p110-alpha subunit,PIK3CA,B
+Inosine-5'-monophosphate dehydrogenase 1,IMPDH1,B
+Inosine-5'-monophosphate dehydrogenase 2,IMPDH2,B
+Cyclin-dependent kinase 1/cyclin B,CCNB3 CDK1 CCNB1 CCNB2,B
+Cyclin-dependent kinase 2/cyclin A,CDK2 CCNA1 CCNA2,B
+Ribosomal protein S6 kinase alpha 3,RPS6KA3,B
+CDK8/Cyclin C,CCNC CDK8,B
+MAP kinase p38 beta,MAPK11,B
+Cell division protein kinase 8,CDK8,B
+Leukocyte adhesion glycoprotein LFA-1 alpha,ITGAL,B
+Proto-oncogene c-JUN,JUN,B
+Glycogen synthase kinase-3 alpha,GSK3A,B
+Tyrosine-protein kinase JAK3,JAK3,B
+PI3-kinase p110-beta subunit,PIK3CB,B
+Platelet-derived growth factor receptor beta,PDGFRB,B
+Stem cell growth factor receptor,KIT,B
+Phosphodiesterase 10A,PDE10A,B
+LIM domain kinase 2,LIMK2,B
+11-beta-hydroxysteroid dehydrogenase 2,HSD11B2,B
+Phosphodiesterase 2A,PDE2A,B
+p53-binding protein Mdm-2,MDM2,B
+Toll-like receptor (TLR7/TLR9),TLR9,B
+Cyclin-dependent kinase 2,CDK2,B
+Cyclin-dependent kinase 1,CDK1,B
+NAD-dependent deacetylase sirtuin 2,SIRT2,B
+Peptide N-myristoyltransferase 1,NMT1,B
+Protein kinase C (PKC),PRKCZ,B
+DNA-dependent protein kinase,PRKDC,B
+Cyclin-dependent kinase 2/cyclin E1,CCNE1 CDK2,B
+Nociceptin receptor,OPRL1,B
+P2X purinoceptor 7,P2RX7,B
+Cyclin-dependent kinase 4/cyclin D1,CCND1 CDK4,B
+Oxytocin receptor,OXTR,B
+Cyclin-dependent kinase 2/cyclin E,CCNE2 CDK2 CCNE1,B
+Interleukin-1 beta,IL1B,B
+Thrombin and coagulation factor X,F10,B
+Adenosine A2a receptor,ADORA2A,B
+Dual specificity phosphatase Cdc25C,CDC25C,B
+Insulin receptor,INSR,B
+Apoptosis regulator Bcl-X,BCL2L1,C
+Glucocorticoid receptor,NR3C1,C
+HMG-CoA reductase,HMGCR,C
+Inhibitor of nuclear factor kappa B kinase beta subunit,IKBKB,C
+Protein kinase C alpha,PRKCA,C
+Androgen Receptor,AR,C
+Kappa Opioid receptor,OPRK1,C
+Telomerase reverse transcriptase,TERT,C
+Protein kinase C delta,PRKCD,C
+Protein kinase C gamma,PRKCG,C
+Protein kinase C beta,PRKCB,C
+Protein kinase C eta,PRKCH,C
+Progesterone receptor,PGR,C
+P-glycoprotein 1,ABCB1,C
+Protein-tyrosine phosphatase 1B,PTPN1,C
+Cyclooxygenase-2,PTGS2,C
+Protein-tyrosine phosphatase 2C,PTPN11,C
+Arachidonate 5-lipoxygenase,ALOX5,C
+Mineralocorticoid receptor,NR3C2,C
+Phospholipase A2 group IIA,PLA2G2A,C
+Delta opioid receptor,OPRD1,C
+Serine/threonine protein phosphatase PP1-gamma catalytic subunit,PPP1CC,C
+Proteinase-activated receptor 2,F2RL1,C
+Cytochrome P450 19A1,CYP19A1,C
+C-C chemokine receptor type 1,CCR1,C
+11-beta-hydroxysteroid dehydrogenase 1,HSD11B1,C
+"Serine/threonine protein phosphatase 2A, catalytic subunit, alpha isoform",PPP2CA,C
+Dual specificity phosphatase Cdc25C,CDC25C,C
+Protein kinase C theta,PRKCQ,C
+Ribosomal protein S6 kinase alpha 5,RPS6KA5,C
+Protein kinase C epsilon,PRKCE,C
+Thrombin,F2,C
+Isoleucyl-tRNA synthetase,IARS,C
+Gamma-secretase,PSEN2 PSENEN NCSTN APH1A PSEN1 APH1B,C
+CDK8/Cyclin C,CCNC CDK8,C
+Cell division protein kinase 8,CDK8,C
+Voltage-gated potassium channel subunit Kv1.3,KCNA3,C
+Carboxylesterase 2,CES2,C
+Tubulin--tyrosine ligase,TTL,C
+Protein kinase C (PKC),PRKCZ,C
+Period circadian protein homolog 2,PER2,C
+Corticosteroid binding globulin,SERPINA6,C
+Phosphodiesterase 4D,PDE4D,C
+Nerve growth factor receptor Trk-A,NTRK1,C
+Phosphodiesterase 10A,PDE10A,C
+Prostaglandin E synthase,PTGES,C
+Cyclin-dependent kinase 1/cyclin B,CCNB3 CDK1 CCNB1 CCNB2,C
+Cyclin-dependent kinase 2/cyclin A,CDK2 CCNA1 CCNA2,C
+Ribosomal protein S6 kinase alpha 3,RPS6KA3,C
+Peroxisome proliferator-activated receptor delta,PPARD,C
+Bromodomain-containing protein 4,BRD4,C
+CREB-binding protein/p53,CREBBP,C
+PI3-kinase p110-beta subunit,PIK3CB,C
+Inosine-5'-monophosphate dehydrogenase 1,IMPDH1,C
+Inosine-5'-monophosphate dehydrogenase 2,IMPDH2,C
+Programmed cell death protein 4,PDCD4,C
+MAP kinase p38 alpha,MAPK14,C
+p53-binding protein Mdm-2,MDM2,C
+Leucine-rich repeat serine/threonine-protein kinase 2,LRRK2,C
+Tyrosine-protein kinase JAK3,JAK3,C
+Cyclin-dependent kinase 2,CDK2,C
+Cyclin-dependent kinase 1,CDK1,C
+P2X purinoceptor 3,P2RX3,C
+Dual specificity phosphatase Cdc25A,CDC25A,C
+Adenosine A2a receptor,ADORA2A,C
+Dual specificity mitogen-activated protein kinase kinase 1,MAP2K1,C
+Sarcoplasmic/endoplasmic reticulum calcium ATPase 1,ATP2A1,C
+Glutathione S-transferase Mu 1,GSTM1,C
+Stem cell growth factor receptor,KIT,C
+Kinesin-1 heavy chain/ Tyrosine-protein kinase receptor RET,RET,C
+Tyrosine-protein kinase LCK,LCK,C
+DNA-dependent protein kinase,PRKDC,C
+Tyrosine-protein kinase TYK2,TYK2,C
+MAP kinase ERK2,MAPK1,C
+MAP kinase signal-integrating kinase 2,MKNK2,C
+ALK tyrosine kinase receptor,ALK,C
+Ephrin receptor,EPHB4,C
+Phosphodiesterase 2A,PDE2A,C
+Poly [ADP-ribose] polymerase-1,PARP1,C
+"Heat shock protein 75 kDa, mitochondrial",TRAP1,C
+Cyclin-dependent kinase 4/cyclin D1,CCND1 CDK4,C
+Cyclin-dependent kinase 2/cyclin E1,CCNE1 CDK2,C
+Cyclin-dependent kinase 2/cyclin E,CCNE2 CDK2 CCNE1,C
+Heat shock protein HSP 90-beta,HSP90AB1,C
+PI3-kinase p110-delta subunit,PIK3CD,C
+PI3-kinase p110-alpha subunit,PIK3CA,C
+Proteasome Macropain subunit,PSMB2,C
+Cytochrome P450 51,CYP51A1,C
+26S proteosome,PSMB1,C
+Proteasome Macropain subunit MB1,PSMB5,C
+Peroxisome proliferator-activated receptor gamma,PPARG,C
+Nociceptin receptor,OPRL1,C
+P2X purinoceptor 7,P2RX7,C
+LIM domain kinase 2,LIMK2,C
+Adrenergic receptor beta,ADRB2,C
+Beta-1 adrenergic receptor,ADRB1,C
+Beta-3 adrenergic receptor,ADRB3,C
+Tyrosine-protein kinase JAK2,JAK2,C
+Protein farnesyltransferase,FNTA FNTB,C
+Serine/threonine-protein kinase PAK 1,PAK1,C
+Protein kinase C alpha,PRKCA,D
+Protein kinase C delta,PRKCD,D
+Protein kinase C beta,PRKCB,D
+Androgen Receptor,AR,D
+Protein kinase C epsilon,PRKCE,D
+Protein kinase C gamma,PRKCG,D
+Protein kinase C eta,PRKCH,D
+P-glycoprotein 1,ABCB1,D
+Protein kinase C theta,PRKCQ,D
+Cyclooxygenase-2,PTGS2,D
+HMG-CoA reductase,HMGCR,D
+Isoleucyl-tRNA synthetase,IARS,D
+Glutathione S-transferase Mu 1,GSTM1,D
+Proto-oncogene vav,VAV1,D
+Glucocorticoid receptor,NR3C1,D
+Telomerase reverse transcriptase,TERT,D
+Tubulin--tyrosine ligase,TTL,D
+Interleukin-8 receptor A,CXCR1,D
+Proteinase-activated receptor 2,F2RL1,D
+Protein-tyrosine phosphatase 1B,PTPN1,D
+Phosphodiesterase 4D,PDE4D,D
+Sarcoplasmic/endoplasmic reticulum calcium ATPase 1,ATP2A1,D
+Progesterone receptor,PGR,D
+Voltage-gated potassium channel subunit Kv1.3,KCNA3,D
+Programmed cell death protein 4,PDCD4,D
+C-C chemokine receptor type 1,CCR1,D
+Phospholipase A2 group IIA,PLA2G2A,D
+Apoptosis regulator Bcl-X,BCL2L1,D
+Inhibitor of nuclear factor kappa B kinase beta subunit,IKBKB,D
+Proto-oncogene c-JUN,JUN,D
+Arachidonate 5-lipoxygenase,ALOX5,D
+Pregnane X receptor,NR1I2,D
+"Heat shock protein 75 kDa, mitochondrial",TRAP1,D
+Heat shock protein HSP 90-beta,HSP90AB1,D
+Nerve growth factor receptor Trk-A,NTRK1,D
+Matrix metalloproteinase 3,MMP3,D
+Matrix metalloproteinase 1,MMP1,D
+Cyclin-dependent kinase 1/cyclin B,CCNB3 CDK1 CCNB1 CCNB2,D
+Cyclin-dependent kinase 2/cyclin A,CDK2 CCNA1 CCNA2,D
+Ribosomal protein S6 kinase alpha 3,RPS6KA3,D
+MAP kinase p38 alpha,MAPK14,D
+Cyclin-dependent kinase 2,CDK2,D
+Cyclin-dependent kinase 1,CDK1,D
+11-beta-hydroxysteroid dehydrogenase 1,HSD11B1,D
+P2X purinoceptor 3,P2RX3,D
+Thrombin,F2,D
+Period circadian protein homolog 2,PER2,D
+Cyclin-dependent kinase 4/cyclin D1,CCND1 CDK4,D
+Cyclin-dependent kinase 2/cyclin E,CCNE2 CDK2 CCNE1,D
+CDK8/Cyclin C,CCNC CDK8,D
+Cell division protein kinase 8,CDK8,D
+Transient receptor potential cation channel subfamily V member 4,TRPV4,D
+Bromodomain-containing protein 4,BRD4,D
+CREB-binding protein/p53,CREBBP,D
+Kappa Opioid receptor,OPRK1,D
+Thrombin and coagulation factor X,F10,D
+Glycogen synthase kinase-3 beta,GSK3B,D
+Carboxylesterase 2,CES2,D
+Leucine-rich repeat serine/threonine-protein kinase 2,LRRK2,D
+Protein kinase C (PKC),PRKCZ,D
+MAP kinase ERK2,MAPK1,D
+Insulin receptor,INSR,D
+Tyrosine-protein kinase ITK/TSK,ITK,D
+Protein farnesyltransferase,FNTA FNTB,D
+"6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase 3",PFKFB3,D
+"Serine/threonine protein phosphatase 2A, catalytic subunit, alpha isoform",PPP2CA,D
+Protein-tyrosine phosphatase 2C,PTPN11,D
+Dual specificity mitogen-activated protein kinase kinase 1,MAP2K1,D
+Mitogen-activated protein kinase kinase kinase 1,MAP3K1,D
+P2X purinoceptor 7,P2RX7,D
+Peptide N-myristoyltransferase 1,NMT1,D
+Glycogen synthase kinase-3 alpha,GSK3A,D
+Macrophage colony stimulating factor receptor,CSF1R,D
+Mammalian target of Rapamycin (mTORC1),FKBP1A MTOR,D
+Ribosomal protein S6 kinase 1,RPS6KB1,D
+Serine/threonine-protein kinase Aurora-A,AURKA,D
+p53-binding protein Mdm-2,MDM2,D
+Tyrosine-protein kinase receptor TYRO3,TYRO3,D
+Proto-oncogene tyrosine-protein kinase MER,MERTK,D
+Prostaglandin E synthase,PTGES,D
+Adenosine A1 receptor,ADORA1,D
+Adenosine A3 receptor,ADORA3,D
+Cyclin-dependent kinase 9,CDK9,D
+NAD-dependent deacetylase sirtuin 2,SIRT2,D
+Tyrosine-protein kinase SYK,SYK,D
+Proteasome subunit beta type-8,PSMB8,D
+Serine/threonine-protein kinase Aurora-B,AURKB,D
+Liver glycogen phosphorylase,PYGL,D
+Cytochrome P450 51,CYP51A1,D
+Subtilisin/kexin type 7,PCSK7,D
+Inosine-5'-monophosphate dehydrogenase 1,IMPDH1,D
+Inosine-5'-monophosphate dehydrogenase 2,IMPDH2,D
+Adenosine A2a receptor,ADORA2A,D
+Geranylgeranyl transferase type I,PGGT1B FNTA,D
+Endothelin receptor ET-A,EDNRA,D
+Vascular endothelial growth factor receptor 3,FLT4,D
+Tyrosine-protein kinase receptor FLT3,FLT3,D
+Renin,REN,D
+MAP kinase p38 beta,MAPK11,D
+Mineralocorticoid receptor,NR3C2,D
+Protein kinase C alpha,PRKCA,E
+Protein kinase C delta,PRKCD,E
+Protein kinase C epsilon,PRKCE,E
+P-glycoprotein 1,ABCB1,E
+Protein kinase C beta,PRKCB,E
+Androgen Receptor,AR,E
+Cyclooxygenase-2,PTGS2,E
+Protein kinase C gamma,PRKCG,E
+Protein kinase C eta,PRKCH,E
+Protein kinase C theta,PRKCQ,E
+Glucocorticoid receptor,NR3C1,E
+Proto-oncogene vav,VAV1,E
+HMG-CoA reductase,HMGCR,E
+Proteinase-activated receptor 2,F2RL1,E
+Interleukin-8 receptor A,CXCR1,E
+Isoleucyl-tRNA synthetase,IARS,E
+Glutathione S-transferase Mu 1,GSTM1,E
+Sarcoplasmic/endoplasmic reticulum calcium ATPase 1,ATP2A1,E
+Protein-tyrosine phosphatase 1B,PTPN1,E
+Progesterone receptor,PGR,E
+Voltage-gated potassium channel subunit Kv1.3,KCNA3,E
+Telomerase reverse transcriptase,TERT,E
+Phosphodiesterase 4D,PDE4D,E
+Apoptosis regulator Bcl-X,BCL2L1,E
+Programmed cell death protein 4,PDCD4,E
+Tubulin--tyrosine ligase,TTL,E
+C-C chemokine receptor type 1,CCR1,E
+Pregnane X receptor,NR1I2,E
+"Heat shock protein 75 kDa, mitochondrial",TRAP1,E
+Heat shock protein HSP 90-beta,HSP90AB1,E
+Inhibitor of nuclear factor kappa B kinase beta subunit,IKBKB,E
+Proto-oncogene c-JUN,JUN,E
+Kappa Opioid receptor,OPRK1,E
+Arachidonate 5-lipoxygenase,ALOX5,E
+Cyclin-dependent kinase 2,CDK2,E
+Cyclin-dependent kinase 1,CDK1,E
+Phospholipase A2 group IIA,PLA2G2A,E
+Cyclin-dependent kinase 1/cyclin B,CCNB3 CDK1 CCNB1 CCNB2,E
+Cyclin-dependent kinase 2/cyclin A,CDK2 CCNA1 CCNA2,E
+Ribosomal protein S6 kinase alpha 3,RPS6KA3,E
+MAP kinase p38 alpha,MAPK14,E
+Transient receptor potential cation channel subfamily V member 4,TRPV4,E
+Nerve growth factor receptor Trk-A,NTRK1,E
+Matrix metalloproteinase 1,MMP1,E
+Thrombin,F2,E
+Protein farnesyltransferase,FNTA FNTB,E
+Period circadian protein homolog 2,PER2,E
+P2X purinoceptor 3,P2RX3,E
+Glycogen synthase kinase-3 beta,GSK3B,E
+Matrix metalloproteinase 3,MMP3,E
+Bromodomain-containing protein 4,BRD4,E
+CREB-binding protein/p53,CREBBP,E
+11-beta-hydroxysteroid dehydrogenase 1,HSD11B1,E
+Insulin receptor,INSR,E
+Tyrosine-protein kinase ITK/TSK,ITK,E
+CDK8/Cyclin C,CCNC CDK8,E
+Cell division protein kinase 8,CDK8,E
+Dual specificity mitogen-activated protein kinase kinase 1,MAP2K1,E
+Mitogen-activated protein kinase kinase kinase 1,MAP3K1,E
+Protein-tyrosine phosphatase 2C,PTPN11,E
+MAP kinase ERK2,MAPK1,E
+"Serine/threonine protein phosphatase 2A, catalytic subunit, alpha isoform",PPP2CA,E
+Leucine-rich repeat serine/threonine-protein kinase 2,LRRK2,E
+Peptide N-myristoyltransferase 1,NMT1,E
+Cyclin-dependent kinase 9,CDK9,E
+P2X purinoceptor 7,P2RX7,E
+Endothelin receptor ET-A,EDNRA,E
+Cyclin-dependent kinase 4/cyclin D1,CCND1 CDK4,E
+Cyclin-dependent kinase 2/cyclin E,CCNE2 CDK2 CCNE1,E
+"6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase 3",PFKFB3,E
+Proteasome Macropain subunit,PSMB2,E
+26S proteosome,PSMB1,E
+Proteasome Macropain subunit MB1,PSMB5,E
+Renin,REN,E
+Thrombin and coagulation factor X,F10,E
+Liver glycogen phosphorylase,PYGL,E
+Protein kinase C (PKC),PRKCZ,E
+Cytochrome P450 51,CYP51A1,E
+NAD-dependent deacetylase sirtuin 2,SIRT2,E
+Adenosine A1 receptor,ADORA1,E
+Protein Wnt-3a,WNT3A,E
+Tyrosine-protein kinase JAK3,JAK3,E
+Adenosine A3 receptor,ADORA3,E
+Tyrosine-protein kinase JAK2,JAK2,E
+Tankyrase-2,TNKS2,E
+p53-binding protein Mdm-2,MDM2,E
+Tyrosine-protein kinase SYK,SYK,E
+ADAM17,ADAM17,E
+Tyrosine-protein kinase receptor UFO,AXL,E
+Tyrosine-protein kinase receptor TYRO3,TYRO3,E
+Interleukin-6 receptor subunit beta,IL6ST,E
+Caspase-8,CASP8,E
+Caspase-1,CASP1,E
+Vascular endothelial growth factor receptor 3,FLT4,E
+Tyrosine-protein kinase receptor FLT3,FLT3,E
+Proteasome subunit beta type-8,PSMB8,E
+Geranylgeranyl transferase type I,PGGT1B FNTA,E
+Thromboxane-A synthase,TBXAS1,E
+Complement factor D,CFD,E
+"Thymidine kinase, cytosolic",TK1,E
+Telomerase reverse transcriptase,TERT,F
+P-glycoprotein 1,ABCB1,F
+Glucocorticoid receptor,NR3C1,F
+HMG-CoA reductase,HMGCR,F
+Protein kinase C alpha,PRKCA,F
+Isoleucyl-tRNA synthetase,IARS,F
+Androgen Receptor,AR,F
+Protein-tyrosine phosphatase 1B,PTPN1,F
+Apoptosis regulator Bcl-X,BCL2L1,F
+Ribosomal protein S6 kinase alpha 5,RPS6KA5,F
+Inhibitor of nuclear factor kappa B kinase beta subunit,IKBKB,F
+Voltage-gated potassium channel subunit Kv1.3,KCNA3,F
+Programmed cell death protein 4,PDCD4,F
+Protein kinase C delta,PRKCD,F
+Kappa Opioid receptor,OPRK1,F
+Arachidonate 5-lipoxygenase,ALOX5,F
+Progesterone receptor,PGR,F
+Cyclooxygenase-2,PTGS2,F
+Phosphodiesterase 4D,PDE4D,F
+C-C chemokine receptor type 1,CCR1,F
+Pregnane X receptor,NR1I2,F
+Protein kinase C beta,PRKCB,F
+Proteinase-activated receptor 2,F2RL1,F
+Protein kinase C epsilon,PRKCE,F
+Glutathione S-transferase Mu 1,GSTM1,F
+Protein kinase C gamma,PRKCG,F
+Protein kinase C eta,PRKCH,F
+Thrombin,F2,F
+Phospholipase A2 group IIA,PLA2G2A,F
+Carboxylesterase 2,CES2,F
+Protein-tyrosine phosphatase 2C,PTPN11,F
+Cytochrome P450 19A1,CYP19A1,F
+CDK8/Cyclin C,CCNC CDK8,F
+Cell division protein kinase 8,CDK8,F
+Proto-oncogene c-JUN,JUN,F
+Bromodomain-containing protein 4,BRD4,F
+CREB-binding protein/p53,CREBBP,F
+MAP kinase ERK2,MAPK1,F
+Delta opioid receptor,OPRD1,F
+Leucine-rich repeat serine/threonine-protein kinase 2,LRRK2,F
+Period circadian protein homolog 2,PER2,F
+MAP kinase p38 alpha,MAPK14,F
+Nerve growth factor receptor Trk-A,NTRK1,F
+Tubulin--tyrosine ligase,TTL,F
+11-beta-hydroxysteroid dehydrogenase 1,HSD11B1,F
+Gamma-secretase,PSEN2 PSENEN NCSTN APH1A PSEN1 APH1B,F
+P2X purinoceptor 3,P2RX3,F
+Mineralocorticoid receptor,NR3C2,F
+Poly [ADP-ribose] polymerase-1,PARP1,F
+Matrix metalloproteinase 1,MMP1,F
+Protein kinase C theta,PRKCQ,F
+Complement factor D,CFD,F
+Serine/threonine-protein kinase mTOR,MTOR,F
+p53-binding protein Mdm-2,MDM2,F
+Tyrosine-protein kinase receptor TYRO3,TYRO3,F
+Proto-oncogene tyrosine-protein kinase MER,MERTK,F
+Cyclin-dependent kinase 1/cyclin B,CCNB3 CDK1 CCNB1 CCNB2,F
+Cyclin-dependent kinase 2/cyclin A,CDK2 CCNA1 CCNA2,F
+Ribosomal protein S6 kinase alpha 3,RPS6KA3,F
+Thrombin and coagulation factor X,F10,F
+"Heat shock protein 75 kDa, mitochondrial",TRAP1,F
+Heat shock protein HSP 90-beta,HSP90AB1,F
+DNA-dependent protein kinase,PRKDC,F
+"Serine/threonine protein phosphatase 2A, catalytic subunit, alpha isoform",PPP2CA,F
+Inosine-5'-monophosphate dehydrogenase 1,IMPDH1,F
+Inosine-5'-monophosphate dehydrogenase 2,IMPDH2,F
+Tyrosine-protein kinase JAK3,JAK3,F
+Adenosine A2a receptor,ADORA2A,F
+Stem cell growth factor receptor,KIT,F
+Mammalian target of Rapamycin (mTORC1),FKBP1A MTOR,F
+Cyclin-dependent kinase 2,CDK2,F
+Cyclin-dependent kinase 1,CDK1,F
+Platelet-derived growth factor receptor beta,PDGFRB,F
+Protein kinase C (PKC),PRKCZ,F
+PI3-kinase p110-alpha subunit,PIK3CA,F
+Phosphodiesterase 10A,PDE10A,F
+Tyrosine-protein kinase ITK/TSK,ITK,F
+Sarcoplasmic/endoplasmic reticulum calcium ATPase 1,ATP2A1,F
+Cyclin-dependent kinase 4/cyclin D1,CCND1 CDK4,F
+Nociceptin receptor,OPRL1,F
+Cyclin-dependent kinase 2/cyclin E,CCNE2 CDK2 CCNE1,F
+Glycogen synthase kinase-3 alpha,GSK3A,F
+MAP kinase ERK1,MAPK3,F
+MAP kinase p38 beta,MAPK11,F
+Prostaglandin E synthase,PTGES,F
+CDK2/Cyclin A,CCNA2 CDK2,F
+PI3-kinase p110-beta subunit,PIK3CB,F
+Toll-like receptor (TLR7/TLR9),TLR9,F
+Cyclin-dependent kinase 2/cyclin E1,CCNE1 CDK2,F
+GABA-A receptor; alpha-5/beta-3/gamma-2,GABRB3 GABRG2 GABRA5,F
+Beta secretase 2,BACE2,F
+Serotonin 6 (5-HT6) receptor,HTR6,F
+Phosphodiesterase 1C,PDE1C,F
+LIM domain kinase 2,LIMK2,F
+c-Jun N-terminal kinase 1,MAPK8,F
+c-Jun N-terminal kinase 3,MAPK10,F
+c-Jun N-terminal kinase 2,MAPK9,F
+Peroxisome proliferator-activated receptor gamma,PPARG,F
+Peptide N-myristoyltransferase 1,NMT1,F
+Dual specificity mitogen-activated protein kinase kinase 1,MAP2K1,F
+Protein kinase C alpha,PRKCA,G
+Voltage-gated potassium channel subunit Kv1.3,KCNA3,G
+Protein kinase C epsilon,PRKCE,G
+Isoleucyl-tRNA synthetase,IARS,G
+Protein kinase C delta,PRKCD,G
+P-glycoprotein 1,ABCB1,G
+Protein kinase C beta,PRKCB,G
+Cyclooxygenase-2,PTGS2,G
+Protein kinase C gamma,PRKCG,G
+Protein kinase C eta,PRKCH,G
+Protein kinase C theta,PRKCQ,G
+Glucocorticoid receptor,NR3C1,G
+Proto-oncogene c-JUN,JUN,G
+Proteinase-activated receptor 2,F2RL1,G
+Telomerase reverse transcriptase,TERT,G
+Programmed cell death protein 4,PDCD4,G
+Protein-tyrosine phosphatase 1B,PTPN1,G
+Glutathione S-transferase Mu 1,GSTM1,G
+Sarcoplasmic/endoplasmic reticulum calcium ATPase 1,ATP2A1,G
+HMG-CoA reductase   (by homology),HMGCR,G
+PI3-kinase p110-alpha subunit,PIK3CA,G
+Androgen Receptor,AR,G
+"Heat shock protein 75 kDa, mitochondrial",TRAP1,G
+Heat shock protein HSP 90-beta,HSP90AB1,G
+Phosphodiesterase 4D,PDE4D,G
+P2X purinoceptor 3,P2RX3,G
+C-C chemokine receptor type 1,CCR1,G
+PI3-kinase p110-beta subunit,PIK3CB,G
+Pregnane X receptor,NR1I2,G
+Proto-oncogene vav,VAV1,G
+Cyclin-dependent kinase 2,CDK2,G
+Cyclin-dependent kinase 1,CDK1,G
+Renin,REN,G
+Kappa Opioid receptor,OPRK1,G
+Glycogen synthase kinase-3 beta,GSK3B,G
+11-beta-hydroxysteroid dehydrogenase 1,HSD11B1,G
+Matrix metalloproteinase 1,MMP1,G
+Splicing factor 3B subunit 3,SF3B3,G
+MAP kinase ERK2,MAPK1,G
+Cyclin-dependent kinase 1/cyclin B,CCNB3 CDK1 CCNB1 CCNB2,G
+Cyclin-dependent kinase 2/cyclin A,CDK2 CCNA1 CCNA2,G
+Ribosomal protein S6 kinase alpha 3,RPS6KA3,G
+Apoptosis regulator Bcl-X,BCL2L1,G
+Interleukin-8 receptor A,CXCR1,G
+Nerve growth factor receptor Trk-A,NTRK1,G
+Fatty acid synthase,FASN,G
+Leucine-rich repeat serine/threonine-protein kinase 2,LRRK2,G
+Brain adenylate cyclase 1,ADCY1,G
+Delta opioid receptor,OPRD1,G
+Thrombin,F2,G
+Bromodomain-containing protein 4,BRD4,G
+Thrombin and coagulation factor X,F10,G
+CREB-binding protein/p53,CREBBP,G
+Sorbitol dehydrogenase,SORD,G
+Matrix metalloproteinase 3,MMP3,G
+Poly [ADP-ribose] polymerase-1,PARP1,G
+PI3-kinase p110-delta subunit,PIK3CD,G
+MAP kinase ERK1,MAPK3,G
+Serine/threonine-protein kinase Chk1,CHEK1,G
+Adenosine A3 receptor,ADORA3,G
+MAP kinase p38 alpha,MAPK14,G
+CDK8/Cyclin C,CCNC CDK8,G
+Period circadian protein homolog 2,PER2,G
+Cell division protein kinase 8,CDK8,G
+Progesterone receptor,PGR,G
+Matrix metalloproteinase 7,MMP7,G
+P2X purinoceptor 7,P2RX7,G
+"6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase 3",PFKFB3,G
+Peptide N-myristoyltransferase 1,NMT1,G
+Pyruvate dehydrogenase kinase isoform 1,PDK1,G
+Transient receptor potential cation channel subfamily V member 4,TRPV4,G
+Serine/threonine-protein kinase Aurora-A,AURKA,G
+Protein-tyrosine phosphatase 2C,PTPN11,G
+Cytochrome P450 51,CYP51A1,G
+Ribosomal protein S6 kinase alpha 5,RPS6KA5,G
+Inhibitor of nuclear factor kappa B kinase beta subunit,IKBKB,G
+Potassium-transporting ATPase alpha chain 2,ATP12A,G
+Complement factor D,CFD,G
+Adenosine A2b receptor,ADORA2B,G
+Tyrosine-protein kinase SYK,SYK,G
+Arachidonate 5-lipoxygenase,ALOX5,G
+PI3-kinase p110-gamma subunit,PIK3CG,G
+Tyrosine-protein kinase receptor UFO,AXL,G
+Tyrosine-protein kinase receptor TYRO3,TYRO3,G
+Proto-oncogene tyrosine-protein kinase MER,MERTK,G
+Protein farnesyltransferase,FNTA FNTB,G
+Protein Wnt-3a,WNT3A,G
+CDK2/Cyclin A,CCNA2 CDK2,G
+Phosphodiesterase 10A,PDE10A,G
+Tankyrase-2,TNKS2,G
+Serine/threonine-protein kinase B-raf,BRAF,G
+Insulin-like growth factor I receptor,IGF1R,G
+Beta secretase 2,BACE2,G
+Dual specificity mitogen-activated protein kinase kinase 1,MAP2K1,G
+Mitogen-activated protein kinase kinase kinase 1,MAP3K1,G
+Proto-oncogene tyrosine-protein kinase ROS,ROS1,G
+"Serine/threonine protein phosphatase 2A, catalytic subunit, alpha isoform",PPP2CA,G
+Receptor protein-tyrosine kinase erbB-2,ERBB2,G
+Macrophage colony stimulating factor receptor,CSF1R,G
+Stem cell growth factor receptor,KIT,G
+P-glycoprotein 1,ABCB1,H
+Androgen Receptor,AR,H
+Glucocorticoid receptor,NR3C1,H
+Telomerase reverse transcriptase,TERT,H
+Isoleucyl-tRNA synthetase,IARS,H
+Protein kinase C delta   (by homology),PRKCD,H
+Protein kinase C alpha,PRKCA,H
+HMG-CoA reductase,HMGCR,H
+Proto-oncogene c-JUN,JUN,H
+Ribosomal protein S6 kinase alpha 5,RPS6KA5,H
+Inhibitor of nuclear factor kappa B kinase beta subunit,IKBKB,H
+Programmed cell death protein 4,PDCD4,H
+Voltage-gated potassium channel subunit Kv1.3,KCNA3,H
+Protein-tyrosine phosphatase 1B,PTPN1,H
+Proteinase-activated receptor 2,F2RL1,H
+11-beta-hydroxysteroid dehydrogenase 1,HSD11B1,H
+Glutathione S-transferase Mu 1,GSTM1,H
+Protein kinase C epsilon,PRKCE,H
+Subtilisin/kexin type 7,PCSK7,H
+Arachidonate 5-lipoxygenase,ALOX5,H
+Cyclooxygenase-2,PTGS2,H
+Protein kinase C beta,PRKCB,H
+Mineralocorticoid receptor,NR3C2,H
+Serine/threonine-protein kinase mTOR,MTOR,H
+PI3-kinase p110-alpha subunit,PIK3CA,H
+Potassium-transporting ATPase alpha chain 2,ATP12A,H
+Bromodomain-containing protein 4,BRD4,H
+CREB-binding protein/p53,CREBBP,H
+Protein kinase C eta,PRKCH,H
+Protein kinase C theta,PRKCQ,H
+Phospholipase A2 group IIA,PLA2G2A,H
+Kappa Opioid receptor,OPRK1,H
+Muscle glycogen synthase,GYS1,H
+P2X purinoceptor 7,P2RX7,H
+P2X purinoceptor 3,P2RX3,H
+Leucine-rich repeat serine/threonine-protein kinase 2,LRRK2,H
+Protein kinase C gamma,PRKCG,H
+MAP kinase p38 alpha,MAPK14,H
+Nerve growth factor receptor Trk-A,NTRK1,H
+Cyclin-dependent kinase 2,CDK2,H
+Cyclin-dependent kinase 1,CDK1,H
+Thrombin,F2,H
+Splicing factor 3B subunit 3,SF3B3,H
+Apoptosis regulator Bcl-X,BCL2L1,H
+Phosphodiesterase 4D,PDE4D,H
+"Serine/threonine protein phosphatase 2A, catalytic subunit, alpha isoform",PPP2CA,H
+Phosphodiesterase 10A,PDE10A,H
+Sarcoplasmic/endoplasmic reticulum calcium ATPase 1,ATP2A1,H
+Progesterone receptor,PGR,H
+C-C chemokine receptor type 1,CCR1,H
+MAP kinase ERK2,MAPK1,H
+Beta secretase 2,BACE2,H
+Protein Wnt-3a,WNT3A,H
+c-Jun N-terminal kinase 1,MAPK8,H
+c-Jun N-terminal kinase 3,MAPK10,H
+Matrix metalloproteinase 3,MMP3,H
+Matrix metalloproteinase 1,MMP1,H
+c-Jun N-terminal kinase 2,MAPK9,H
+Sodium channel protein type IX alpha subunit,SCN9A,H
+Tankyrase-2,TNKS2,H
+Tubulin--tyrosine ligase,TTL,H
+Delta opioid receptor,OPRD1,H
+Tyrosine-protein kinase receptor TYRO3,TYRO3,H
+Proto-oncogene tyrosine-protein kinase MER,MERTK,H
+Sorbitol dehydrogenase,SORD,H
+Mitogen-activated protein kinase kinase kinase 14,MAP3K14,H
+Eukaryotic translation initiation factor 2-alpha kinase 3,EIF2AK3,H
+Corticosteroid binding globulin,SERPINA6,H
+Toll-like receptor (TLR7/TLR9),TLR9,H
+Cyclin-dependent kinase 4/cyclin D1,CCND1 CDK4,H
+Cyclin-dependent kinase 2/cyclin E,CCNE2 CDK2 CCNE1,H
+Vascular endothelial growth factor receptor 3,FLT4,H
+Tyrosine-protein kinase receptor FLT3,FLT3,H
+Dual specificity phosphatase Cdc25B,CDC25B,H
+Platelet-derived growth factor receptor beta,PDGFRB,H
+Stem cell growth factor receptor,KIT,H
+Adenosine A2a receptor,ADORA2A,H
+Cytochrome P450 19A1,CYP19A1,H
+"Heat shock protein 75 kDa, mitochondrial",TRAP1,H
+Heat shock protein HSP 90-beta,HSP90AB1,H
+Interleukin-8 receptor A,CXCR1,H
+Liver glycogen phosphorylase,PYGL,H
+Tyrosine-protein kinase ITK/TSK,ITK,H
+Proto-oncogene vav,VAV1,H
+ATP-sensitive inward rectifier potassium channel 1,KCNJ1,H
+MAP kinase ERK1,MAPK3,H
+Tyrosine-protein kinase SRC,SRC,H
+Cyclin-dependent kinase 1/cyclin B,CCNB3 CDK1 CCNB1 CCNB2,H
+Cyclin-dependent kinase 2/cyclin A,CDK2 CCNA1 CCNA2,H
+Ribosomal protein S6 kinase alpha 3,RPS6KA3,H
+Interleukin-8 receptor B,CXCR2,H
+Serine/threonine-protein kinase/endoribonuclease IRE1,ERN1,H
+Low affinity sodium-glucose cotransporter,SLC5A4,H
+Serine/threonine-protein kinase Aurora-A,AURKA,H
+Sodium/glucose cotransporter 1,SLC5A1,H
+Tyrosine-protein kinase JAK1,JAK1,H
+Tyrosine-protein kinase JAK2,JAK2,H
+Sodium/glucose cotransporter 2,SLC5A2,H
+Dipeptidyl peptidase IV,DPP4,H
+Pregnane X receptor,NR1I2,H
+Protein kinase C alpha,PRKCA,I
+Isoleucyl-tRNA synthetase,IARS,I
+Voltage-gated potassium channel subunit Kv1.3,KCNA3,I
+Protein kinase C delta,PRKCD,I
+Protein kinase C beta,PRKCB,I
+Protein kinase C epsilon,PRKCE,I
+Telomerase reverse transcriptase,TERT,I
+Protein-tyrosine phosphatase 1B,PTPN1,I
+P-glycoprotein 1,ABCB1,I
+Androgen Receptor,AR,I
+Glucocorticoid receptor,NR3C1,I
+Protein kinase C gamma,PRKCG,I
+Protein kinase C eta,PRKCH,I
+Protein kinase C theta,PRKCQ,I
+Proto-oncogene c-JUN,JUN,I
+Programmed cell death protein 4,PDCD4,I
+HMG-CoA reductase,HMGCR,I
+Cyclooxygenase-2,PTGS2,I
+Proteinase-activated receptor 2,F2RL1,I
+Glutathione S-transferase Mu 1,GSTM1,I
+C-C chemokine receptor type 1,CCR1,I
+Pregnane X receptor,NR1I2,I
+Sarcoplasmic/endoplasmic reticulum calcium ATPase 1,ATP2A1,I
+"Heat shock protein 75 kDa, mitochondrial",TRAP1,I
+Heat shock protein HSP 90-beta,HSP90AB1,I
+Matrix metalloproteinase 1,MMP1,I
+Cyclin-dependent kinase 1/cyclin B,CCNB3 CDK1 CCNB1 CCNB2,I
+Cyclin-dependent kinase 2/cyclin A,CDK2 CCNA1 CCNA2,I
+Ribosomal protein S6 kinase alpha 3,RPS6KA3,I
+Cyclin-dependent kinase 2,CDK2,I
+Cyclin-dependent kinase 1,CDK1,I
+Glycogen synthase kinase-3 beta,GSK3B,I
+Phosphodiesterase 4D,PDE4D,I
+Progesterone receptor,PGR,I
+Ribosomal protein S6 kinase alpha 5,RPS6KA5,I
+Inhibitor of nuclear factor kappa B kinase beta subunit,IKBKB,I
+Kappa Opioid receptor,OPRK1,I
+MAP kinase ERK2,MAPK1,I
+Proto-oncogene vav,VAV1,I
+MAP kinase p38 alpha,MAPK14,I
+Arachidonate 5-lipoxygenase,ALOX5,I
+Thrombin,F2,I
+P2X purinoceptor 3,P2RX3,I
+11-beta-hydroxysteroid dehydrogenase 1,HSD11B1,I
+Interleukin-8 receptor A,CXCR1,I
+Period circadian protein homolog 2,PER2,I
+Nerve growth factor receptor Trk-A,NTRK1,I
+Protein-tyrosine phosphatase 2C,PTPN11,I
+CDK8/Cyclin C,CCNC CDK8,I
+PI3-kinase p110-alpha subunit,PIK3CA,I
+Cell division protein kinase 8,CDK8,I
+PI3-kinase p110-delta subunit,PIK3CD,I
+Apoptosis regulator Bcl-X,BCL2L1,I
+Splicing factor 3B subunit 3,SF3B3,I
+Tubulin--tyrosine ligase,TTL,I
+Bromodomain-containing protein 4,BRD4,I
+CREB-binding protein/p53,CREBBP,I
+Leucine-rich repeat serine/threonine-protein kinase 2,LRRK2,I
+Renin,REN,I
+Thrombin and coagulation factor X,F10,I
+Poly [ADP-ribose] polymerase-1,PARP1,I
+Transient receptor potential cation channel subfamily V member 4,TRPV4,I
+MAP kinase ERK1,MAPK3,I
+Pyruvate dehydrogenase kinase isoform 1,PDK1,I
+Adenosine A3 receptor,ADORA3,I
+ADAM17,ADAM17,I
+CDK2/Cyclin A,CCNA2 CDK2,I
+Stem cell growth factor receptor,KIT,I
+Caspase-3,CASP3,I
+Peptide N-myristoyltransferase 1,NMT1,I
+Caspase-7,CASP7,I
+PI3-kinase p110-beta subunit,PIK3CB,I
+Brain adenylate cyclase 1,ADCY1,I
+Delta opioid receptor,OPRD1,I
+Potassium channel subfamily K member 3,KCNK3,I
+Macrophage colony stimulating factor receptor,CSF1R,I
+Mammalian target of Rapamycin (mTORC1),FKBP1A MTOR,I
+Sorbitol dehydrogenase,SORD,I
+Matrix metalloproteinase 3,MMP3,I
+Serine/threonine-protein kinase PIM1,PIM1,I
+Tyrosine-protein kinase JAK3,JAK3,I
+Tyrosine-protein kinase JAK2,JAK2,I
+Muscle glycogen synthase,GYS1,I
+Serine/threonine-protein kinase PIM2,PIM2,I
+Serine/threonine-protein kinase Chk1,CHEK1,I
+P2X purinoceptor 7,P2RX7,I
+Serine/threonine-protein kinase PIM3,PIM3,I
+Beta secretase 2,BACE2,I
+"Nitric oxide synthase, inducible   (by homology)",NOS2,I
+Peroxisome proliferator-activated receptor delta,PPARD,I
+Histone deacetylase 6,HDAC6,I
+Cyclin-dependent kinase 4/cyclin D1,CCND1 CDK4,I
+Histone deacetylase 2,HDAC2,I
+Nociceptin receptor,OPRL1,I
+Cyclin-dependent kinase 2/cyclin E,CCNE2 CDK2 CCNE1,I
+3-phosphoinositide dependent protein kinase-1,PDPK1,I
+Histone deacetylase 1,HDAC1,I
+Protein Wnt-3a,WNT3A,I
+c-Jun N-terminal kinase 1,MAPK8,I
+c-Jun N-terminal kinase 3,MAPK10,I
