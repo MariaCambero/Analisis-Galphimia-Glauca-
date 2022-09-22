@@ -62,13 +62,35 @@ names(Target_CommonName) = NULL
 fwrite(Target_CommonName, "Target.csv")
 fwrite(Target_SwissTarget, "Targets_Compuesto.csv")
 
+g_SwissTarget <- Target_SwissTarget %>% as_tibble() 
+
+#En este paso elimine columnas innecesarias
+
+g_SwissTarget <- g_SwissTarget[,-1]
+g_SwissTarget <- g_SwissTarget[,-2]
+g_SwissTarget <- g_SwissTarget[,-2]
+g_SwissTarget <- g_SwissTarget[,-4]
+g_SwissTarget <- g_SwissTarget[,-2]
+g_SwissTarget <- g_SwissTarget[,-2]
+# Duda de la columna de Probability si se deja o se quita. ***********
 
 
-Target_SwissTarget %>% as_tibble() %>% 
-  as_tbl_graph()
+# En g_SwissTarget solo hay dos columnas Common.name y Compuesto -> cambiaré esos nombres a Protein y Metabolito
 
-plot(Target_SwissTarget)
+g_SwissTarget <- g_SwissTarget %>% rename (Protein = Common.name, Metabolite = Compuesto)
+Table_SwissTarget <- g_SwissTarget
 
+#Esta es la Tabla 
+
+# Estos son datos de Grafos
+
+      g_SwissTarget <- 
+        g_SwissTarget %>% 
+        select(Metabolite, Protein) %>% 
+        graph_from_data_frame(d = ., directed = T) %>% 
+        as_tbl_graph()
+
+#plot(g_SwissTarget)
 
 
 # Paso 3) Targets - otras proteinas | string; Valores experimentales, Capturas de patalla Settings 21/07/22
@@ -82,5 +104,115 @@ g_proteinas <-
   g_proteinas %>%
   filter(experimental > 0)
 
+
+g_proteinas <- graph_from_data_frame(g_proteinas, directed = F)
+
+
+g_proteinas <- as_tbl_graph(g_proteinas)
+
+#vamos a sacar un diccionario de si las proteinas son targets o no lo son (son segundos vecinos)
+
+mis_targets <- Table_SwissTarget$Protein
+
+
+g_proteinas <- 
+  g_proteinas %>% 
+  activate("nodes") %>% 
+  mutate(target = name%in%mis_targets)
+
+ggraph(g_proteinas)  +
+  geom_edge_link(alpha = 0.05)  + 
+  geom_node_point(aes(color = target))
+
+g_proteinas %>% activate("nodes") %>% 
+  as.tibble() %>% group_by(target) %>% tally()
+
+
+
+
+
+# vamos a ver QUE metabolito está conectado a estos genes 
+
+targets_a <- 
+  Table_SwissTarget %>% 
+  filter(Metabolite == "A") %>% 
+  pull(Protein)
+
+targets_b <- 
+  Table_SwissTarget %>% 
+  filter(Metabolite == "B") %>% 
+  pull(Protein)
+
+targets_c <- 
+  Table_SwissTarget %>% 
+  filter(Metabolite == "C") %>% 
+  pull(Protein)
+
+targets_d <- 
+  Table_SwissTarget %>% 
+  filter(Metabolite == "D") %>% 
+  pull(Protein)
+
+targets_e <- 
+  Table_SwissTarget %>% 
+  filter(Metabolite == "E") %>% 
+  pull(Protein)
+
+targets_f <- 
+  Table_SwissTarget %>% 
+  filter(Metabolite == "F") %>% 
+  pull(Protein)
+
+targets_g <- 
+  Table_SwissTarget %>% 
+  filter(Metabolite == "G") %>% 
+  pull(Protein)
+
+targets_h <- 
+  Table_SwissTarget %>% 
+  filter(Metabolite == "H") %>% 
+  pull(Protein)
+
+targets_i <- 
+  Table_SwissTarget %>% 
+  filter(Metabolite == "I") %>% 
+  pull(Protein)
+
+#le pongo si son targets
+
+g_proteinas <- 
+  g_proteinas %>% 
+  activate("nodes") %>% 
+  mutate(target = name%in%mis_targets,
+         target_a = name%in%targets_a,
+         target_b = name%in%targets_b,
+         target_c = name%in%targets_c,
+         target_d = name%in%targets_d,
+         target_e = name%in%targets_e,
+         target_f = name%in%targets_f,
+         target_g = name%in%targets_g,
+         target_h = name%in%targets_h,
+         target_i = name%in%targets_i
+  )
+
+
+# vamos a calcular medidas de centralidad y detectar comunidades 
+
+g_proteinas <- 
+  g_proteinas %>% 
+  activate("nodes") %>% 
+  mutate(grado = centrality_degree(),
+         bc    = centrality_betweenness())
+
+tabla_analisis_nodos <- 
+  g_proteinas %>% 
+  activate("nodes") %>% 
+  as_tibble()
+
+tabla_analisis_nodos %>% 
+  arrange(desc(grado))
+
+tabla_analisis_nodos %>% 
+  arrange(desc(bc))
 
 
