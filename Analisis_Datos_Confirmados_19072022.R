@@ -20,6 +20,7 @@ library(data.table)
 # Por medio de los nombres y tomando "Canonical SMILES"
 # Ingresando esos datos en SwissTarget para cada compuesto.
 
+# Nota: Metabolito = Diana / Blanco
 
 # Paso 2) Union de Metabolitos - Targets | SwissTarget
 
@@ -72,7 +73,6 @@ g_SwissTarget <- g_SwissTarget[,-2]
 g_SwissTarget <- g_SwissTarget[,-4]
 g_SwissTarget <- g_SwissTarget[,-2]
 g_SwissTarget <- g_SwissTarget[,-2]
-# Duda de la columna de Probability si se deja o se quita. ***********
 
 
 # En g_SwissTarget solo hay dos columnas Common.name y Compuesto -> cambiaré esos nombres a Protein y Metabolito
@@ -82,7 +82,7 @@ Table_SwissTarget <- g_SwissTarget
 
 #Esta es la Tabla 
 
-# Estos son datos de Grafos
+# Estos son datos de las dianas metabolicas para procesar en Grafos
 
       g_SwissTarget <- 
         g_SwissTarget %>% 
@@ -93,7 +93,7 @@ Table_SwissTarget <- g_SwissTarget
 #plot(g_SwissTarget)
 
 
-# Paso 3) Targets - otras proteinas | string; Valores experimentales, Capturas de patalla Settings 21/07/22
+# Paso 3) Targets - Otras proteinas | string; Valores experimentales.
 
 
 g_proteinas <- read_csv("String_Interactions.csv")
@@ -110,7 +110,7 @@ g_proteinas <- graph_from_data_frame(g_proteinas, directed = F)
 
 g_proteinas <- as_tbl_graph(g_proteinas)
 
-#vamos a sacar un diccionario de si las proteinas son targets o no lo son (son segundos vecinos)
+#vamos a sacar un diccionario de las proteinas targets
 
 mis_targets <- Table_SwissTarget$Protein
 
@@ -126,7 +126,6 @@ ggraph(g_proteinas)  +
 
 g_proteinas %>% activate("nodes") %>% 
   as.tibble() %>% group_by(target) %>% tally()
-
 
 
 
@@ -196,7 +195,7 @@ g_proteinas <-
   )
 
 
-# vamos a calcular medidas de centralidad y detectar comunidades 
+# vamos a calcular medidas de centralidad y detectar comunidades.
 
 g_proteinas <- 
   g_proteinas %>% 
